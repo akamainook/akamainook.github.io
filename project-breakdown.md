@@ -31,5 +31,5 @@ REQUIRED ENTRIES
 			(i.e crowded/noisy/quiet/empty)
 -------------------------------------------------------------------------
 	- Other Possible Entries
-	   Location
-	   Picture
+	   ~ Location/Directions to spot
+	   ~ Picture 
