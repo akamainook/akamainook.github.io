@@ -12,10 +12,11 @@ types of students. In addition, there is a “real-time” feature, where studen
 state of the study space. This can inform other students about whether the space is noisy, or crowded, or even quiet and empty.
 
 
-###GOAL* 
+###*GOAL* 
   Allow Student to Post a study spot
 	
 ###REQUIRED ENTRIES
+
 	- Hours of Operation
 	
 	- Pros/Cons
@@ -29,10 +30,10 @@ state of the study space. This can inform other students about whether the space
 	- How accessible is it for students
 		(i.e ICS Space Open to Everyone)
 	
-	- real-time feature
+	- Real-time feature
 		~ students can send out notifications of current state
 			(i.e crowded/noisy/quiet/empty)
 
-	- *Other Entries*
+	- *Other Possible Entries*
 	   Location
 	   Picture
