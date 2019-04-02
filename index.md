@@ -11,7 +11,7 @@ Students have relied on Sinclair and Hamilton library for all their emergency st
 Any students of University of Hawaii are allowed to come aboard and rate their favorite nook. International students, exchange students, community college students, and Alumnis could all give important feedback and discoveries that supports student life.
 </p>
 <hr>
-<h3>Where can we use it at?</h3>
+<h3>Where can you use it for?</h3>
 <p>
 Location does not have to be limited in University campus only. Find a nice new coffee store with good WiFi? Share it with us. Find a nice picnic area for some outdoor team meaning? Great! The openess of this application allows students to visit many different nooks, making each study session exciting and refreshing. 
 </p>
