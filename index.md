@@ -50,6 +50,7 @@
 <p>
   The home page will be greeting the users who have made an account and signed in. The home page have an in-depth search function complete with an embed Google Maps to allow users to visually see the location of the nooks. 
 </p>
+<img src="/images/home.png" width="500px" align="middle">
 <hr>
 <h3 id="8">Admin Page</h3>
 <p>
