@@ -15,7 +15,7 @@
   <li><a href="#10">Profile Page</a></li>
   <li><a href="#11">Add Page</a></li>
   <li><a href="#12">Admin Page</a></li>
-  <li><a href="links">Useful Links</a></li>
+  <li><a href="#links">Useful Links</a></li>
 </ul>
   
 <h3 id="1">What is it?</h3>
