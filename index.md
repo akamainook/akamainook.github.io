@@ -8,7 +8,9 @@
   <li><a href="#3">Where can you use it for?</a></li>
   <li><a href="#4">How can you use it?</a></li>
   <li><a href="#5">Deployment</a></li>
-  <li><a href="#6">Home Page</a></li>
+  <li><a href="#6">Landing Page</a></li>
+  <li><a href="#7">Home Page</a></li>
+  <li><a href="#8">Admin Page</a></li>
 </ul>
   
 <h3 id="1">What is it?</h3>
@@ -35,9 +37,21 @@
 <p>
   We have deployed our application to galaxy, which can be found through <a   href="https://galaxy.meteor.com/app/akamainook.meteorapp.com">this</a> link.
 </p>
-<img src="/images/deployment.png" width="500px">
+<img src="/images/deployment.png" width="500px" align="middle">
 <hr>
-<h3 id="6">Home Page</h3>
+<h3 id="6">Landing Page</h3>
+<p>
+  This will be the page that the users are greeted upon opening the application. The user is able to see three of our recommended locations with a image, location, and attributes attached. The user is able to quickly type in some key words in the search bar and begin their hunt for their nook. The navigation bar on the top will allow the user to log in or sign up for more action. 
+</p>
+
+<img src="/images/landing.PNG" width="500px" align="middle">
+<hr>
+<h3 id="7">Home Page</h3>
+<p>
+  
+</p>
+<hr>
+<h3 id="8">Admin Page</h3>
 <p>
   
 </p>
