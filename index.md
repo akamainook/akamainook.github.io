@@ -92,7 +92,7 @@
 <hr>
 <h3 id="link">Useful Links</h3>
 <ul>
-  <li>Github organization page: <a href="https://github.com/akamainook" /></li>
+  <li>Github organization page: <a href="https://github.com/akamainook"></a></li>
   <li>Github application code: <href="https://github.com/akamainook/akamainook" /></li>  
   <li>Project and milestones: <href="https://github.com/akamainook/akamainook/projects" /></li>
   <li>Meteor deployment website: <href="https://galaxy.meteor.com/app/akamainook.meteorapp.com" /></li>
