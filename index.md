@@ -23,6 +23,6 @@ Location does not have to be limited in University campus only. Find a nice new 
 <hr>
 <h3>Deployment</h3>
 <p>
-We have deployed our application to galaxy, which can be found through <a href src="https://galaxy.meteor.com/app/akamainook.meteorapp.com">this</a> link.
+We have deployed our application to galaxy, which can be found through <a href="https://galaxy.meteor.com/app/akamainook.meteorapp.com">this</a> link.
 </p>
 <hr>
