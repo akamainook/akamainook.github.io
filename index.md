@@ -10,7 +10,11 @@
   <li><a href="#5">Deployment</a></li>
   <li><a href="#6">Landing Page</a></li>
   <li><a href="#7">Home Page</a></li>
-  <li><a href="#8">Admin Page</a></li>
+  <li><a href="#8">Log in Page</a></li>
+  <li><a href="#9">Register Page</a></li>
+  <li><a href="#10">Profile Page</a></li>
+  <li><a href="#11">Add Page</a></li>
+  <li><a href="#12">Admin Page</a></li>
 </ul>
   
 <h3 id="1">What is it?</h3>
@@ -52,8 +56,36 @@
 </p>
 <img src="/images/home.png" width="500px" align="middle">
 <hr>
-<h3 id="8">Admin Page</h3>
+<h3 id="8">Log in Page</h3>
+<p>
+  Simple email and password registration page. Convieniently allows user to register if they have not done so.
+</p>
+<img src="/images/login.png" width="500px" align="middle">
+<hr>
+<h3 id="9">Register Page</h3>
+<p>
+  Another simple interface that allows user to register their email and password. We may add dual password option later to help users make sure the password they typed in is what they want it to be. 
+</p>
+<img src="/images/register.png" width="500px" align="middle">
+<hr>
+
+<h3 id="10">Profile</h3>
+<p>
+  **this page is still undergoing construction** 
+  <br>
+  Now that the user is registered and logged in, they are able to view their profile. The profile page will allow users to check what nook they have uploaded, and have control over their email address and password. 
+</p>
+<img src="/images/profile.png" width="500px" align="middle">
+<hr>
+<h3 id="11">Add Page</h3>
+<p>
+  This is a simple page that allows user to add their favorite nook. Our scope is to allow the user to enter the name, a short description, upload an image, select tags, and enter the hours of operation. Of course, some users may be discouraged to enter all of the field, so not all of the fields will be mandatory. For data purposes, currently all fields are mandatory and image will require a link instead of an upload. 
+</p>
+<img src="/images/add.png" width="500px" align="middle">
+<hr>
+<h3 id="12">Admin Page</h3>
 <p>
   The admin will have full controll of which location to add to our archives and which location to decline. Because this is a relatively small scoped project, we plan to manually update the maps and location cards as the requests come in. This allows us to take our time and actually fill out the description of the locations if needed, such as taking a photo of the location if the submittion lacks one. 
 </p>
+<img src="/images/admin.png" width="500px" align="middle">
 <hr>
