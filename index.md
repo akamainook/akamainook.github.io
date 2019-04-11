@@ -85,7 +85,7 @@
 <hr>
 <h3 id="12">Admin Page</h3>
 <p>
-  The admin will have full controll of which location to add to our archives and which location to decline. Because this is a relatively small scoped project, we plan to manually update the maps and location cards as the requests come in. This allows us to take our time and actually fill out the description of the locations if needed, such as taking a photo of the location if the submittion lacks one. 
+  The admin will have full control of which location to add to our archives and which location to decline. Because this is a relatively small scoped project, we plan to manually update the maps and location cards as the requests come in. This allows us to take our time and actually fill out the description of the locations if needed, such as taking a photo of the location if the submittion lacks one. 
 </p>
 <img src="/images/admin.png" width="500px" align="middle">
 <hr>
