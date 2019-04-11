@@ -48,11 +48,11 @@
 <hr>
 <h3 id="7">Home Page</h3>
 <p>
-  
+  The home page will be greeting the users who have made an account and signed in. The home page have an in-depth search function complete with an embed Google Maps to allow users to visually see the location of the nooks. 
 </p>
 <hr>
 <h3 id="8">Admin Page</h3>
 <p>
-  
+  The admin will have full controll of which location to add to our archives and which location to decline. Because this is a relatively small scoped project, we plan to manually update the maps and location cards as the requests come in. This allows us to take our time and actually fill out the description of the locations if needed, such as taking a photo of the location if the submittion lacks one. 
 </p>
 <hr>
