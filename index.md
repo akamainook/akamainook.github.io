@@ -1,4 +1,4 @@
-<h1>Akamai Nook</h1>
+<h1 id="top">Akamai Nook</h1>
 <br>
 <hr>
 <h3>Index</h3>
@@ -15,6 +15,7 @@
   <li><a href="#10">Profile Page</a></li>
   <li><a href="#11">Add Page</a></li>
   <li><a href="#12">Admin Page</a></li>
+  <li><a href="links">Useful Links</a></li>
 </ul>
   
 <h3 id="1">What is it?</h3>
@@ -89,3 +90,13 @@
 </p>
 <img src="/images/admin.png" width="500px" align="middle">
 <hr>
+<h3 id="link">Useful Links</h3>
+<ul>
+  <li>Github organization page: <href="https://github.com/akamainook"></li>
+  <li>Github application code: <href="https://github.com/akamainook/akamainook"></li>  
+  <li>Project and milestones: <href="https://github.com/akamainook/akamainook/projects"></li>
+  <li>Meteor deployment website: <href="https://galaxy.meteor.com/app/akamainook.meteorapp.com"></li>
+  <li>Actual application website: <href="https://akamainook.meteorapp.com"></li>
+</ul>
+<hr>
+<a href="#top>Back to top</a>
