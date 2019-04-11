@@ -55,7 +55,7 @@
 <p>
   This will be the page that the users are greeted upon opening the application. The user is able to see three of our recommended locations with a image, location, and attributes attached. The user is able to quickly type in some key words in the search bar and begin their hunt for their nook. The navigation bar on the top will allow the user to log in or sign up for more action. 
 </p>
-<img src="/images/landing.PNG" width="500px" align="middle">
+<a href="http://akamainook.meteorapp.com/#/"><img src="/images/landing.PNG" width="500px" align="middle"></a>
 <hr>
 
 <h3 id="7">Home Page</h3>
