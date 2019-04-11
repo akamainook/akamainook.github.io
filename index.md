@@ -4,7 +4,7 @@
 <h3>Index</h3>
 <ul>
   <li><a href="#1">What is it?</a></li>
-  <li><a href="#2">Whp can use it?</a></li>
+  <li><a href="#2">Who can use it?</a></li>
   <li><a href="#3">Where can you use it for?</a></li>
   <li><a href="#4">How can you use it?</a></li>
   <li><a href="#5">Deployment</a></li>
