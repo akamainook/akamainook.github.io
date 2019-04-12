@@ -5,6 +5,7 @@
 
 
 <ul>
+  <li><a href="#links">Useful Links</a></li>
   <li><a href="#1">What is it?</a></li>
   <li><a href="#2">Who can use it?</a></li>
   <li><a href="#3">Where can you use it for?</a></li>
@@ -17,8 +18,23 @@
   <li><a href="#10">Profile Page</a></li>
   <li><a href="#11">Add Page</a></li>
   <li><a href="#12">Admin Page</a></li>
-  <li><a href="#links">Useful Links</a></li>
 </ul>
+<hr>
+
+<h3 id="links">Useful Links</h3>
+<ul>
+  <li>Github organization page: <br>
+    <a href="https://github.com/akamainook">https://github.com/akamainook</a></li>
+  <li>Github application code:  <br>
+    <a href="https://github.com/akamainook/akamainook">https://github.com/akamainook/akamainook</a></li>  
+  <li>Project and milestones:  <br>
+    <a href="https://github.com/akamainook/akamainook/projects">https://github.com/akamainook/akamainook/projects</a></li>
+  <li>Meteor deployment website:  <br>
+    <a href="https://galaxy.meteor.com/app/akamainook.meteorapp.com">https://galaxy.meteor.com/app/akamainook.meteorapp.com</a></li>
+  <li>Actual application website:  <br>
+    <a href="https://akamainook.meteorapp.com">https://akamainook.meteorapp.com</a></li>
+</ul>
+<hr>
   
 <h3 id="1">What is it?</h3>
 <p>
@@ -100,19 +116,5 @@
 <a href="http://akamainook.meteorapp.com/#/admin"><img src="/images/admin.png" width="500px" align="middle"></a>
 <hr>
 
-<h3 id="links">Useful Links</h3>
-<ul>
-  <li>Github organization page: <br>
-    <a href="https://github.com/akamainook">https://github.com/akamainook</a></li>
-  <li>Github application code:  <br>
-    <a href="https://github.com/akamainook/akamainook">https://github.com/akamainook/akamainook</a></li>  
-  <li>Project and milestones:  <br>
-    <a href="https://github.com/akamainook/akamainook/projects">https://github.com/akamainook/akamainook/projects</a></li>
-  <li>Meteor deployment website:  <br>
-    <a href="https://galaxy.meteor.com/app/akamainook.meteorapp.com">https://galaxy.meteor.com/app/akamainook.meteorapp.com</a></li>
-  <li>Actual application website:  <br>
-    <a href="https://akamainook.meteorapp.com">https://akamainook.meteorapp.com</a></li>
-</ul>
-<hr>
 
 <a href="#top">Back to top</a>
