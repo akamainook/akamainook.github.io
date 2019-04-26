@@ -21,7 +21,8 @@
    <li><a href="#13">Admin Page</a></li>
    </ul></li>
    
-  <li><a href="#14>Milestone 2</a></li>
+  <li><a href="#14">Milestone 2</a></li>
+  <li><a href="#15">Milestone 3</a></li>
   
 </ul>
 <hr>
@@ -157,6 +158,13 @@ Our primary goal of Milestone 2 was to implement the functions each page of the 
 <img src="/images/addM2.png" width="500px" align="middle"></li>
 <li>Admin Page: The admin is able to approve spots which then enables anyone to see all existing nooks.</li>
 </ul>
+</p>
+
+<hr>
+
+<h3 id="15"><a href="https://github.com/akamainook/akamainook/projects/3">Milestone 3</a></h3>
+<p>
+*** In Development ***
 </p>
 
 
