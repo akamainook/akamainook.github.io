@@ -10,14 +10,19 @@
   <li><a href="#2">Who can use it?</a></li>
   <li><a href="#3">Where can you use it for?</a></li>
   <li><a href="#4">How can you use it?</a></li>
-  <li><a href="#5">Deployment</a></li>
-  <li><a href="#6">Landing Page</a></li>
-  <li><a href="#7">Home Page</a></li>
-  <li><a href="#8">Log in Page</a></li>
-  <li><a href="#9">Register Page</a></li>
-  <li><a href="#10">Profile Page</a></li>
-  <li><a href="#11">Add Page</a></li>
-  <li><a href="#12">Admin Page</a></li>
+  <li><a href="#5">Milestone 1</a>
+  <ul>                                
+  <li><a href="#6">Deployment</a></li>  
+  <li><a href="#7">Landing Page</a></li>
+   <li><a href="#8">Home Page</a></li>  
+   <li><a href="#9">Log In Page</a></li>
+   <li><a href="#10">Register Page</a></li>                                                                 <li><a href="#11">Profile Page</a></li>
+   <li><a href="#12">Add Page</a></li>
+   <li><a href="#13">Admin Page</a></li>
+   </ul></li>
+   
+  <li><a href="#14>Milestone 2</a></li>
+  
 </ul>
 <hr>
 
@@ -56,65 +61,103 @@
 
 <h3 id="4">How can you use it?</h3>
 <p>
- **Tutorial incoming**
+ Firstly, install <a href="https://www.meteor.com/install">Meteor</a>.
+ 
+ Then, clone a copy of AkamaiNook using <a href="https://github.com/akamainook/akamainook">Github</a>.
+ 
+ Next, open a Command Propmt/Terminal window and cd into the app directory within the AkamaiNook directory.
+ 
+ Once within AkamaiNook/app enter the following command to install the libraries:
+ 
+ ```
+ $ meteor npm install
+ ```
+ Fifth, run the following command to get the system running:
+ 
+ ```
+ $ meteor npm run start
+ ```
 </p>
+
 <hr>
 
-<h3 id="5">Deployment</h3>
+<h3 id="5"><a href="https://github.com/akamainook/akamainook/projects/1">Milestone 1</a></h3>
+<h4 id="6">Deployment</h4>
 <p>
   We have deployed our application to galaxy, which can be found through <a   href="https://galaxy.meteor.com/app/akamainook.meteorapp.com">this</a> link.
 </p>
 <img src="/images/deployment.png" width="500px" align="middle">
-<hr>
-
-<h3 id="6">Landing Page</h3>
+<ul>
+<li>
+<h4 id="7">Landing Page</h4>
 <p>
   This will be the page that the users are greeted upon opening the application. The user is able to see three of our recommended locations with a image, location, and attributes attached. The user is able to quickly type in some key words in the search bar and begin their hunt for their nook. The navigation bar on the top will allow the user to log in or sign up for more action. 
 </p>
 <a href="http://akamainook.meteorapp.com/#/"><img src="/images/landing.PNG" width="500px" align="middle"></a>
-<hr>
+</li>
 
-<h3 id="7">Home Page</h3>
+<li>
+<h4 id="8">Home Page</h4>
 <p>
   The home page will be greeting the users who have made an account and signed in. The home page have an in-depth search function complete with an embed Google Maps to allow users to visually see the location of the nooks. 
 </p>
 <a href="http://akamainook.meteorapp.com/#/home"><img src="/images/home.png" width="500px" align="middle"></a>
-<hr>
+</li>
 
-<h3 id="8">Log in Page</h3>
+<li>
+<h4 id="9">Log in Page</h4>
 <p>
   Simple email and password registration page. Convieniently allows user to register if they have not done so.
 </p>
 <a href="http://akamainook.meteorapp.com/#/signin"><img src="/images/login.png" width="500px" align="middle"></a>
-<hr>
+</li>
 
-<h3 id="9">Register Page</h3>
+<li>
+<h4 id="10">Register Page</h4>
 <p>
   Another simple interface that allows user to register their email and password. We may add dual password option later to help users make sure the password they typed in is what they want it to be. 
 </p>
 <a href="http://akamainook.meteorapp.com/#/signup"><img src="/images/register.png" width="500px" align="middle"></a>
-<hr>
+</li>
 
-<h3 id="10">Profile</h3>
+<li>
+<h4 id="11">Profile</h4>
 <p>
   Now that the user is registered and logged in, they are able to view their profile. The profile page will allow users to check what nook they have uploaded, and have control over their email address and password. 
 </p>
 <a href="http://akamainook.meteorapp.com/#/signup"><img src="/images/profile.png" width="500px" align="middle"></a>
-<hr>
+</li>
 
-<h3 id="11">Add Page</h3>
+<li>
+<h4 id="12">Add Page</h4>
 <p>
   This is a simple page that allows user to add their favorite nook. Our scope is to allow the user to enter the name, a short description, upload an image, select tags, and enter the hours of operation. Of course, some users may be discouraged to enter all of the field, so not all of the fields will be mandatory. For data purposes, currently all fields are mandatory and image will require a link instead of an upload. 
 </p>
 <a href="http://akamainook.meteorapp.com/#/addnook"><img src="/images/add.png" width="500px" align="middle"></a>
-<hr>
-
-<h3 id="12">Admin Page</h3>
+</li>
+<li>
+<h4 id="13">Admin Page</h4>
 <p>
   The admin will have full control of which location to add to our archives and which location to decline. Because this is a relatively small scoped project, we plan to manually update the maps and location cards as the requests come in. This allows us to take our time and actually fill out the description of the locations if needed, such as taking a photo of the location if the submittion lacks one. 
 </p>
 <a href="http://akamainook.meteorapp.com/#/admin"><img src="/images/admin.png" width="500px" align="middle"></a>
+</li>
+</ul>
 <hr>
+
+<h3 id="14"><a href="https://github.com/akamainook/akamainook/projects/2">Milestone 2</a></h3>
+
+<p>
+Our primary goal of Milestone 2 was to implement the functions each page of the application. These functions were as follows:
+
+<ul>
+<li>Log In Page: We implemented the ability to sign into an account using default credentials</li>
+<li>Profile Page: The user is able to log in and see the nooks that they submitted</li>
+<li>Add Page: The user is able to submit a nook by filling in a form as seen below
+<img src="/images/addM2.png" width="500px" align="middle"></li>
+<li>Admin Page: The admin is able to approve spots which then enables anyone to see all existing nooks.</li>
+</ul>
+</p>
 
 
 <a href="#top">Back to top</a>
