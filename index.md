@@ -62,22 +62,20 @@
 
 <h3 id="4">How can you use it?</h3>
 <p>
-<ul style="list-style-type:none;">
- <li>Firstly, install <a href="https://www.meteor.com/install">Meteor</a>.</li>
+
+ <p>Firstly, install <a href="https://www.meteor.com/install">Meteor</a>.</p>
  
- <li>Then, clone a copy of AkamaiNook using <a href="https://github.com/akamainook/akamainook">Github</a>.</li>
+ <p>Then, clone a copy of AkamaiNook using <a href="https://github.com/akamainook/akamainook">Github</a>.</p>
  
- <li>Next, open a Command Propmt/Terminal window and cd into the app directory within the AkamaiNook directory.</li>
+ <p>Next, open a Command Propmt/Terminal window and cd into the app directory within the AkamaiNook directory.</p>
  
- <li>Once within AkamaiNook/app enter the following command to install the libraries:
- <code>$ meteor npm install</code>
- </li>
+ <p>Once within AkamaiNook/app enter the following command to install the libraries:
+ <p><code>$ meteor npm install</code></p>
+ </p>
  
- <li>Fifth, run the following command to get the system running:
- <code>$ meteor npm run start</code>
- </li>
- 
- </ul>
+ <p>Fifth, run the following command to get the system running:
+ <p><code>$ meteor npm run start</code>
+ </p>
 </p>
 
 <hr>
