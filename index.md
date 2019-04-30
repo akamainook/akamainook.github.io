@@ -19,8 +19,7 @@
    <li><a href="#10">Register Page</a></li>                                                                 <li><a href="#11">Profile Page</a></li>
    <li><a href="#12">Add Page</a></li>
    <li><a href="#13">Admin Page</a></li>
-   </ul></li>
-   
+   </ul>
   <li><a href="#14">Milestone 2</a></li>
   <li><a href="#15">Milestone 3</a></li>
   
