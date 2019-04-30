@@ -169,6 +169,7 @@ After the hard part of back-end programming is done, we decided to polish our we
 </p>
 <li>Design: We changed up some of the font and color theme to make the website aesthetically pleasing to look at.</li>
 <li>Logo: Using the power of Logomakr.com, we were able to create our unique logo.</li>
+<li>Code elegance: We went and deleted all test console.log statements, added some comments, got rid of unnecessary imports, deleted all template related stuff that were unrelated to our project. </li>
 <img src="/images/logo.png" width="500px" align="middle">
 
 
