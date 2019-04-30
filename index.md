@@ -153,11 +153,11 @@ Our primary goal of Milestone 2 was to implement the functions each page of the 
 <li>Log In Page: We implemented the ability to sign into an account using default credentials</li>
 <li>Profile Page: The user is able to log in and see the nooks that they submitted</li>
 <li>Nooks Page: Any vistor of the site may view all current nooks</li>
-<li><img src="/images/nooks.png" width="500px" align="middle"></li>
+<img src="/images/nooks.png" width="500px" align="middle">
 <li>Nook Admin Page: The admin is able to edit currently listed nooks</li>
-<li><img src="/images/nookadmin.png" width="500px" align="middle"></li>
+<img src="/images/nookadmin.png" width="500px" align="middle">
 <li>Add Page: The user is able to submit a nook by filling in a form as seen below
-<li><img src="/images/addM2.png" width="500px" align="middle"></li>
+<img src="/images/addM2.png" width="500px" align="middle">
 <li>Admin Page: The admin is able to approve spots which then enables anyone to see all existing nooks.</li>
 </ul>
 </p>
