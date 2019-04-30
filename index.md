@@ -12,13 +12,13 @@
   <li><a href="#4">How can you use it?</a></li>
   <li><a href="#5">Milestone 1</a>
   <ul>                                
-  <li><a href="#6">Deployment</a></li>  
-  <li><a href="#7">Landing Page</a></li>
-   <li><a href="#8">Home Page</a></li>  
-   <li><a href="#9">Log In Page</a></li>
-   <li><a href="#10">Register Page</a></li>                                                                 <li><a href="#11">Profile Page</a></li>
-   <li><a href="#12">Add Page</a></li>
-   <li><a href="#13">Admin Page</a></li>
+    <li><a href="#6">Deployment</a></li>  
+    <li><a href="#7">Landing Page</a></li>
+    <li><a href="#8">Home Page</a></li>  
+    <li><a href="#9">Log In Page</a></li>
+    <li><a href="#10">Register Page</a></li>                                                                 <li><a href="#11">Profile Page</a></li>
+    <li><a href="#12">Add Page</a></li>
+    <li><a href="#13">Admin Page</a></li>
    </ul>
   <li><a href="#14">Milestone 2</a></li>
   <li><a href="#15">Milestone 3</a></li>
@@ -165,8 +165,11 @@ Our primary goal of Milestone 2 was to implement the functions each page of the 
 
 <h3 id="15"><a href="https://github.com/akamainook/akamainook/projects/3">Milestone 3</a></h3>
 <p>
-*** In Development ***
+After the hard part of back-end programming is done, we decided to polish our website.
 </p>
+<li>Design: We changed up some of the font and color theme to make the website aesthetically pleasing to look at.</li>
+<li>Logo: Using the power of Logomakr.com, we were able to create our unique logo.</li>
+<img src="/images/logo.png" width="500px" align="middle">
 
 
 <a href="#top">Back to top</a>
