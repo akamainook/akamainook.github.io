@@ -178,32 +178,48 @@ After the hard part of back-end programming is done, we decided to polish our we
     <h4 id="9">Landing Page</h4>
       <p> The landing page has been updated with a new background of UH Manoa's Hamilton Library interior. It retains the searchbar and popular nooks. It now has a list of popular tags.
     </p>
+    <a href="http://akamainook.meteorapp.com/#/"><img src="/images/landingm3.png" width="500px" align="middle"></a>
+    <a href="http://akamainook.meteorapp.com/#/"><img src="/images/landing2m3.png" width="500px" align="middle"></a>
   </li>
   <li>
     <h4 id="9">Nooks Page</h4>
       <p> The Nooks page is a list of all the nooks added. This is accessible to all visitors of the site, logged in or not. Tags are listed individually in each of the Nook cards. We merged home and list page functionality. Now the Google Maps with markers that was previously on the home page is now on the list page.
     </p>
+    <a href="http://akamainook.meteorapp.com/#/nooks"><img src="/images/listnookm3.png" width="500px" align="middle"></a>
+    <a href="http://akamainook.meteorapp.com/#/nooks"><img src="/images/listnook2m3.png" width="500px" align="middle"></a>
   </li>
   <li>
     <h4 id="9">My Nooks Page</h4>
       <p> My Nooks is a variation of the Nooks Page. It is availible to all logged in users. The user can view all Nooks they added and have the option to edit or delete the desired Nook. When you attempt to delete, you have an option to confirm deletion so no acciedental deletions may be made.
     </p>
+    <a href="http://akamainook.meteorapp.com/#/mynooks"><img src="/images/adminm3.png" width="500px" align="middle"></a>
   </li>
   <li>
     <h4 id="9">Edit Page</h4>
       <p> A variation of the Add Nook page. This page allows the user to change any details of the Nook. The same parameters available to you when adding is availble in edit.
     </p>
+    <a href="http://akamainook.meteorapp.com/#/mynooks"><img src="/images/editnookm3.png" width="500px" align="middle"></a>
   </li>
   <li>
     <h4 id="9">Profile Page</h4>
       <p> The profile page shows you nooks and your current profile picture and a link to edit your profile. Editing your profile allows you to change your profile picture and change your password. You can only change your profile picture from a list a default pictures. To change your password you must enter your old password and confirm your new password twice.
     </p>
+    <a href="http://akamainook.meteorapp.com/#/profile"><img src="/images/profilem3.png" width="500px" align="middle"></a>
+    <a href="http://akamainook.meteorapp.com/#/profile"><img src="/images/editprofilem3.png" width="500px" align="middle"></a>
   </li>
   <li>
     <h4 id="9">Admin Page</h4>
     <p> A variation of the My Nooks page. This page allows the admin user to change any details of any Nook. All nooks are accessible from default nooks, user added nooks, and admin added nooks. The same parameters available to you when adding is availble in edit. 
     </p>
+    <a href="http://akamainook.meteorapp.com/#/admin"><img src="/images/adminm3.png" width="500px" align="middle"></a>
   </li>
+  <li>
+    <h4 id="9">Signup Page</h4>
+    <p> The signup page now has a confirm password box. This is to prevent accidental password typos.
+    </p>
+    <a href="http://akamainook.meteorapp.com/#/signup"><img src="/images/registerm3.png" width="500px" align="middle"></a>
+  </li>
+  
 </ul>
 
 
