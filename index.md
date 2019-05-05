@@ -167,10 +167,12 @@ Our primary goal of Milestone 2 was to implement the functions each page of the 
 <p>
 After the hard part of back-end programming is done, we decided to polish our website.
 </p>
-<li>Design: We changed up some of the font and color theme to make the website aesthetically pleasing to look at. A google font Montserrat as the overall font choice. Navigation bar now reflects the color of the foot bar. Paddings and margins were added in many of the pages to allow more breathing rooms. </li>
-<li>Logo: Using the power of Logomakr.com, we were able to create our unique logo. The logo is in the color of green and white, which is the overall theme of this webpage. The book in the back represents all the knowledge you could gain from using our site. </li>
-<img src="/images/logo.png" width="500px" align="middle">
-<li>Code elegance: We went and deleted all test console.log statements, added some comments, got rid of unnecessary imports, deleted all template related stuff that were unrelated to our project. </li>
+<ul>
+  <li>Design: We changed up some of the font and color theme to make the website aesthetically pleasing to look at. A google font Montserrat as the overall font choice. Navigation bar now reflects the color of the foot bar. Paddings and margins were added in many of the pages to allow more breathing rooms. </li>
+  <li>Logo: Using the power of Logomakr.com, we were able to create our unique logo. The logo is in the color of green and white, which is the overall theme of this webpage. The book in the back represents all the knowledge you could gain from using our site. </li>
+  <img src="/images/logo.png" width="500px" align="middle">
+  <li>Code elegance: We went and deleted all test console.log statements, added some comments, got rid of unnecessary imports, deleted all template related stuff that were unrelated to our project. </li>
+  </ul>
 
 <h3 id="15">New Page Changes</h3>
 <ul>
