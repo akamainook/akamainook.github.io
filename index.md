@@ -21,10 +21,11 @@
     <li><a href="#mynooks">My Nooks Page</a></li>
     <li><a href="#13">Admin Page</a></li>
    </ul>
-  <li><a href="#feedback">Community Feedback</a></li>
   <li><a href="#5">Milestone 1</a>
   <li><a href="#14">Milestone 2</a></li>
   <li><a href="#15">Milestone 3</a></li>
+  <li><a href="#feedback">Community Feedback</a></li>
+
 
 <hr>
 
