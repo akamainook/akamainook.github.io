@@ -254,7 +254,7 @@ After the hard part of back-end programming is done, we decided to polish our we
 </ul>
 
 <hr>
-<h3 id="feedback">Community Feedback</h3>
+<h3 id="feedback"><a href="https://github.com/akamainook/akamainook/feedback">Community Feedback</a></h3>
 
 
 
