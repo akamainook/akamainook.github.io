@@ -256,54 +256,37 @@ After the hard part of back-end programming is done, we decided to polish our we
 <hr>
 <h3 id="feedback"><a href="https://github.com/akamainook/akamainook/feedback">Community Feedback</a></h3>
 
-<p>
   <h4>Isaiah T.</h4>
-  <p>
   <ul>
     <li> Website goes along well with Manoa's colors. </li>
     <li> Wishes time field of 'Add Nook' Page was simpler/easier to use. </li>
-  </p>
-</p>
+  </ul>
 
-<p>
+
   <h4>James U.</h4>
-    <p>
-      <ul> 
-        <li>Thinks it looks nice.</li>
-      </ul>  
-    </p>
-</p>
+    <ul> 
+      <li>Thinks it looks nice.</li>
+    </ul>  
 
-<p>
+
   <h4>Mei Jie W.</h4>
-    <p>
   <ul>
     <li> Says tags should work </li>
     <li> Asks why background is blurry </li>
     <li> Says green is very UH-like and very nice theme. </li>
     <li> Think's the profile pictures are cute, but asked why it is blurry. </li>
   </ul> 
-    </p>
-</p>
 
-<p>
   <h4>Tyler A.</h4>
-    <p>
   <ul>
   <li> Says it's easy to navigate. Navigation bar is easy to read.</li>
   <li> Think's the profile page is too plain. </li>
     </ul>
-    </p>
-</p>
 
-<p>
   <h4>Christian D.C.</h4>
-    <p>
   <ul>
   <li> Thought it was cool that the nooks added and deleted instantly. </li>
-  <li> Says tags should be searchable </li>
+  <li> Says tags should be searchable. </li>
     </ul>
-    </p>
-</p>
 
 <a href="#top">Back to top</a>
