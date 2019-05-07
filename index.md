@@ -10,7 +10,7 @@
   <li><a href="#2">Who can use it?</a></li>
   <li><a href="#3">Where can you use it for?</a></li>
   <li><a href="#devguide">Developer Guide</a></li>
-  <li><a href="#userguide">User Guide></a></li>
+  <li><a href="#userguide">User Guide</a></li>
   <ul>                                
     <li><a href="#7">Landing Page</a></li>
     <li><a href="#8">Nooks Page</a></li>  
