@@ -9,7 +9,7 @@
   <li><a href="#1">What is it?</a></li>
   <li><a href="#2">Who can use it?</a></li>
   <li><a href="#3">Where can you use it for?</a></li>
-  <li><a href="#devguide>Developer Guide</a></li>
+  <li><a href="#devguide">Developer Guide</a></li>
   <li><a href="#userguide">User Guide></a></li>
   <ul>                                
     <li><a href="#7">Landing Page</a></li>
@@ -18,7 +18,7 @@
     <li><a href="#10">Register Page</a></li>                                          
     <li><a href="#11">Profile Page</a></li>
     <li><a href="#12">Add Page</a></li>
-    <li><a href="#mynooks>My Nooks Page</a><li>
+    <li><a href="#mynooks">My Nooks Page</a><li>
     <li><a href="#13">Admin Page</a></li>
    </ul>
   <li><a href="#feedback">Community Feedback</a></li>
