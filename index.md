@@ -259,15 +259,39 @@ After the hard part of back-end programming is done, we decided to polish our we
 <p>
   <h4>Isaiah T.</h4>
   <p>
-  Website goes along well with Manoa's colors
-  - Wishes time field of 'Add Nook' Page was simpler/easier to use
+  <ul>
+    <li> Website goes along well with Manoa's colors. </li>
+    <li> Wishes time field of 'Add Nook' Page was simpler/easier to use. </li>
   </p>
 </p>
 <p>
   <h4>James U.</h4>
     <p>
-      - Thinks it looks nice  
+      <ul> Thinks it looks nice. </ul>  
     </p>
 </p>
-
+<p>
+  <h4>Mei Jie W.</h4>
+    <p>
+  <ul>
+    <li> Says tags should work </li>
+    <li> Asks why background is blurry </li>
+    <li> Says green is very UH-like and very nice theme. </li>
+    <li> Think's the profile pictures are cute, but asked why it is blurry. </li>
+  </ul> 
+    </p>
+</p>
+<p>
+  <h4>Tyler A.</h4>
+    <p>
+  <li> Says it's easy to navigate. Navigation bar is easy to read.</li>
+  <li> Think's the profile page is too plain.
+    </p>
+</p>
+  <h4>Christian D.C.</h4>
+    <p>
+  <li> Thought it was cool that the nooks added and deleted instantly. </li>
+  <li> Says tags should be searchable </li>
+    </p>
+</p>
 <a href="#top">Back to top</a>
