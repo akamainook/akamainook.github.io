@@ -264,6 +264,7 @@ After the hard part of back-end programming is done, we decided to polish our we
     <li> Wishes time field of 'Add Nook' Page was simpler/easier to use. </li>
   </p>
 </p>
+
 <p>
   <h4>James U.</h4>
     <p>
@@ -272,6 +273,7 @@ After the hard part of back-end programming is done, we decided to polish our we
       </ul>  
     </p>
 </p>
+
 <p>
   <h4>Mei Jie W.</h4>
     <p>
@@ -283,18 +285,24 @@ After the hard part of back-end programming is done, we decided to polish our we
   </ul> 
     </p>
 </p>
+
 <p>
   <h4>Tyler A.</h4>
     <p>
+  <ul>
   <li> Says it's easy to navigate. Navigation bar is easy to read.</li>
-  <li> Think's the profile page is too plain.
+  <li> Think's the profile page is too plain. </li>
+    </ul>
     </p>
 </p>
+
 <p>
   <h4>Christian D.C.</h4>
     <p>
+  <ul>
   <li> Thought it was cool that the nooks added and deleted instantly. </li>
   <li> Says tags should be searchable </li>
+    </ul>
     </p>
 </p>
 
