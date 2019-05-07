@@ -9,20 +9,23 @@
   <li><a href="#1">What is it?</a></li>
   <li><a href="#2">Who can use it?</a></li>
   <li><a href="#3">Where can you use it for?</a></li>
-  <li><a href="#4">How can you use it?</a></li>
+  <li><a href="#4">How do you use it?</a></li>
+  <li><a href="#devguide>Developer Guide</a></li>
   <li><a href="#5">Milestone 1</a>
+  <li><a href="#userguide">User Guide></a>
   <ul>                                
     <li><a href="#6">Deployment</a></li>  
     <li><a href="#7">Landing Page</a></li>
     <li><a href="#8">Home Page</a></li>  
     <li><a href="#9">Log In Page</a></li>
-    <li><a href="#10">Register Page</a></li>                                                                 <li><a href="#11">Profile Page</a></li>
+    <li><a href="#10">Register Page</a></li>                                                                 
+    <li><a href="#11">Profile Page</a></li>
     <li><a href="#12">Add Page</a></li>
     <li><a href="#13">Admin Page</a></li>
    </ul>
+  <li><a href="#5">Milestone 1</a>
   <li><a href="#14">Milestone 2</a></li>
   <li><a href="#15">Milestone 3</a></li>
-  
 </ul>
 <hr>
 
@@ -59,32 +62,39 @@
 </p>
 <hr>
 
-<h3 id="4">How can you use it?</h3>
+<h3 id="4">How do you use it?</h3>
+<p>
+
+</p>
+
+
+<h3 id="devguide">Developer's Guide</h3>
 <p>
 
  <p>Firstly, install <a href="https://www.meteor.com/install">Meteor</a>.</p>
  
  <p>Then, clone a copy of AkamaiNook using <a href="https://github.com/akamainook/akamainook">Github</a>.</p>
  
- <p>Next, open a Command Propmt/Terminal window and cd into the app directory within the AkamaiNook directory.</p>
+ <p>Next, open a Command Prompt/Terminal window and cd into the app directory within the AkamaiNook directory.</p>
  
  <p>Once within AkamaiNook/app enter the following command to install the libraries:
  <p><code>$ meteor npm install</code></p>
  </p>
  
  <p>Fifth, run the following command to get the system running:
- <p><code>$ meteor npm run start</code>
+ <p><code>$ meteor npm run start</code></p>
  </p>
+ 
+ <p>You can now access the downloaded build of the site on Google Chrome, or a similar browser by typing:
+<p><code>$ localhost:3000</code></p>
 </p>
 
 <hr>
 
-<h3 id="5"><a href="https://github.com/akamainook/akamainook/projects/1">Milestone 1</a></h3>
-<h4 id="6">Deployment</h4>
-<p>
-  We have deployed our application to galaxy, which can be found through <a   href="https://galaxy.meteor.com/app/akamainook.meteorapp.com">this</a> link.
-</p>
-<img src="/images/deployment.png" width="500px" align="middle">
+<h3 id="userguide">User Guide</h3>
+
+
+
 <ul>
 <li>
 <h4 id="7">Landing Page</h4>
@@ -143,6 +153,15 @@
 </ul>
 <hr>
 
+<h3 id="5"><a href="https://github.com/akamainook/akamainook/projects/1">Milestone 1</a></h3>
+<h4 id="6">Deployment</h4>
+<p>
+  We have deployed our application to galaxy, which can be found through <a   href="https://galaxy.meteor.com/app/akamainook.meteorapp.com">this</a> link.
+</p>
+<img src="/images/deployment.png" width="500px" align="middle">
+
+<hr>
+
 <h3 id="14"><a href="https://github.com/akamainook/akamainook/projects/2">Milestone 2</a></h3>
 
 <p>
@@ -174,7 +193,7 @@ After the hard part of back-end programming is done, we decided to polish our we
   <li>Code elegance: We went and deleted all test console.log statements, added some comments, got rid of unnecessary imports, deleted all template related stuff that were unrelated to our project. </li>
   </ul>
 
-<h3 id="15">New Page Changes</h3>
+<h3>New Page Changes</h3>
 <ul>
   <li>
     <h4 id="9">Landing Page</h4>
@@ -183,7 +202,7 @@ After the hard part of back-end programming is done, we decided to polish our we
     <a href="http://akamainook.meteorapp.com/#/"><img src="/images/landingfullm3.png" width="500px" align="middle"></a>
   </li>
   <li>
-    <h4 id="9">Nooks Page</h4>
+    <h4>Nooks Page</h4>
       <p> The Nooks page is a list of all the nooks added. This is accessible to all visitors of the site, logged in or not. Tags are listed individually in each of the Nook cards. We merged home and list page functionality. Now the Google Maps with markers that was previously on the home page is now on the list page.
     </p>
     <a href="http://akamainook.meteorapp.com/#/nooks"><img src="/images/listnookmapm3.png" width="500px" align="middle"></a>
@@ -191,19 +210,19 @@ After the hard part of back-end programming is done, we decided to polish our we
     <a href="http://akamainook.meteorapp.com/#/nooks"><img src="/images/listnook2m3.png" width="500px" align="middle"></a>
   </li>
   <li>
-    <h4 id="9">My Nooks Page</h4>
+    <h4>My Nooks Page</h4>
       <p> My Nooks is a variation of the Nooks Page. It is availible to all logged in users. The user can view all Nooks they added and have the option to edit or delete the desired Nook. When you attempt to delete, you have an option to confirm deletion so no acciedental deletions may be made.
     </p>
     <a href="http://akamainook.meteorapp.com/#/mynooks"><img src="/images/adminm3.png" width="500px" align="middle"></a>
   </li>
   <li>
-    <h4 id="9">Edit Page</h4>
+    <h4>Edit Page</h4>
       <p> A variation of the Add Nook page. This page allows the user to change any details of the Nook. The same parameters available to you when adding is availble in edit.
     </p>
     <a href="http://akamainook.meteorapp.com/#/mynooks"><img src="/images/editnookm3.png" width="500px" align="middle"></a>
   </li>
   <li>
-    <h4 id="9">Profile Page</h4>
+    <h4>Profile Page</h4>
       <p> The profile page shows you nooks and your current profile picture and a link to edit your profile. Editing your profile allows you to change your profile picture and change your password. You can only change your profile picture from a list a default pictures. To change your password you must enter your old password and confirm your new password twice.
     </p>
     <a href="http://akamainook.meteorapp.com/#/profile"><img src="/images/profilem3.png" width="500px" align="middle"></a>
@@ -217,7 +236,7 @@ After the hard part of back-end programming is done, we decided to polish our we
     <a href="http://akamainook.meteorapp.com/#/admin"><img src="/images/adminm3.png" width="500px" align="middle"></a>
   </li>
   <li>
-    <h4 id="9">Signup Page</h4>
+    <h4>Signup Page</h4>
     <p> The signup page now has a confirm password box. This is to prevent accidental password typos.
     </p>
     <a href="http://akamainook.meteorapp.com/#/signup"><img src="/images/registerm3.png" width="500px" align="middle"></a>
