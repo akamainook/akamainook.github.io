@@ -290,10 +290,12 @@ After the hard part of back-end programming is done, we decided to polish our we
   <li> Think's the profile page is too plain.
     </p>
 </p>
+<p>
   <h4>Christian D.C.</h4>
     <p>
   <li> Thought it was cool that the nooks added and deleted instantly. </li>
   <li> Says tags should be searchable </li>
     </p>
 </p>
+
 <a href="#top">Back to top</a>
