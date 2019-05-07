@@ -267,7 +267,9 @@ After the hard part of back-end programming is done, we decided to polish our we
 <p>
   <h4>James U.</h4>
     <p>
-      <ul> Thinks it looks nice. </ul>  
+      <ul> 
+        <li>Thinks it looks nice.</li>
+      </ul>  
     </p>
 </p>
 <p>
