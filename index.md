@@ -154,7 +154,7 @@
 </p>
 <a href="http://akamainook.meteorapp.com/#/admin"><img src="/images/adminm3.png" width="500px" align="middle"></a>
 </li>
-</ul>
+
 <hr>
 
 <h3 id="5"><a href="https://github.com/akamainook/akamainook/projects/1">Milestone 1</a></h3>
@@ -181,8 +181,7 @@ Our primary goal of Milestone 2 was to implement the functions each page of the 
 <li>Add Page: The user is able to submit a nook by filling in a form as seen below
 <img src="/images/addM2.png" width="500px" align="middle">
 <li>Admin Page: The admin is able to approve spots which then enables anyone to see all existing nooks.</li>
-</ul>
-</p>
+
 
 <hr>
 
