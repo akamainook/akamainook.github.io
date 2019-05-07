@@ -112,7 +112,7 @@
 <p>
   Simple email and password registration page. Convieniently allows user to register if they have not done so.
 </p>
-<a href="http://akamainook.meteorapp.com/#/signin"><img src="/images/login.png" width="500px" align="middle"></a>
+<a href="http://akamainook.meteorapp.com/#/signin"><img src="/images/loginm3.png" width="500px" align="middle"></a>
 </li>
 
 <li>
