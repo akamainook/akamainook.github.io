@@ -256,7 +256,18 @@ After the hard part of back-end programming is done, we decided to polish our we
 <hr>
 <h3 id="feedback"><a href="https://github.com/akamainook/akamainook/feedback">Community Feedback</a></h3>
 
-
-
+<p>
+  <h4>Isaiah T.</h4>
+  <p>
+  Website goes along well with Manoa's colors
+  - Wishes time field of 'Add Nook' Page was simpler/easier to use
+  </p>
+</p>
+<p>
+  <h4>James U.</h4>
+    <p>
+      - Thinks it looks nice  
+    </p>
+</p>
 
 <a href="#top">Back to top</a>
