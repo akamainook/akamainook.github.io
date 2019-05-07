@@ -25,7 +25,7 @@
   <li><a href="#5">Milestone 1</a>
   <li><a href="#14">Milestone 2</a></li>
   <li><a href="#15">Milestone 3</a></li>
-</ul>
+</ul> </ul>
 <hr>
 
 <h3 id="links">Useful Links</h3>
