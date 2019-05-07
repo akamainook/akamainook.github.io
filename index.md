@@ -9,20 +9,19 @@
   <li><a href="#1">What is it?</a></li>
   <li><a href="#2">Who can use it?</a></li>
   <li><a href="#3">Where can you use it for?</a></li>
-  <li><a href="#4">How do you use it?</a></li>
   <li><a href="#devguide>Developer Guide</a></li>
-  <li><a href="#5">Milestone 1</a>
-  <li><a href="#userguide">User Guide></a>
+  <li><a href="#userguide">User Guide></a></li>
   <ul>                                
-    <li><a href="#6">Deployment</a></li>  
     <li><a href="#7">Landing Page</a></li>
-    <li><a href="#8">Home Page</a></li>  
+    <li><a href="#8">Nooks Page</a></li>  
     <li><a href="#9">Log In Page</a></li>
-    <li><a href="#10">Register Page</a></li>                                                                 
+    <li><a href="#10">Register Page</a></li>                                          
     <li><a href="#11">Profile Page</a></li>
     <li><a href="#12">Add Page</a></li>
+    <li><a href="#mynooks>My Nooks Page</a><li>
     <li><a href="#13">Admin Page</a></li>
    </ul>
+  <li><a href="#feedback">Community Feedback</a></li>
   <li><a href="#5">Milestone 1</a>
   <li><a href="#14">Milestone 2</a></li>
   <li><a href="#15">Milestone 3</a></li>
@@ -62,11 +61,6 @@
 </p>
 <hr>
 
-<h3 id="4">How do you use it?</h3>
-<p>
-
-</p>
-
 
 <h3 id="devguide">Developer's Guide</h3>
 <p>
@@ -94,22 +88,23 @@
 <h3 id="userguide">User Guide</h3>
 
 
-
 <ul>
 <li>
 <h4 id="7">Landing Page</h4>
 <p>
   This will be the page that the users are greeted upon opening the application. The user is able to see three of our recommended locations with a image, location, and attributes attached. The user is able to quickly type in some key words in the search bar and begin their hunt for their nook. The navigation bar on the top will allow the user to log in or sign up for more action. 
 </p>
-<a href="http://akamainook.meteorapp.com/#/"><img src="/images/landing.PNG" width="500px" align="middle"></a>
+<a href="http://akamainook.meteorapp.com/#/"><img src="/images/landingfullm3.PNG" width="500px" align="middle"></a>
 </li>
 
 <li>
-<h4 id="8">Home Page</h4>
+<h4 id="8">Nooks Page</h4>
 <p>
-  The home page will be greeting the users who have made an account and signed in. The home page have an in-depth search function complete with an embed Google Maps to allow users to visually see the location of the nooks. 
+  The Nooks page will display all current Nooks on cards. This page is accessible through the top navigation bar. Upon arrival of the page you will be greeted by a Google Map of UH Manoa area with points that correspond to the Nooks. Pointers will be added by admins on a weekly basis. All visitors of the site may access this page.
 </p>
-<a href="http://akamainook.meteorapp.com/#/home"><img src="/images/home.png" width="500px" align="middle"></a>
+<a href="http://akamainook.meteorapp.com/#/nooks"><img src="/images/listnookmapm3.png" width="500px" align="middle"></a>
+  <hr>
+  <a href="http://akamainook.meteorapp.com/#/nooks"><img src="/images/listnook2m3.png" width="500px" align="middle"></a>
 </li>
 
 <li>
@@ -123,9 +118,9 @@
 <li>
 <h4 id="10">Register Page</h4>
 <p>
-  Another simple interface that allows user to register their email and password. We may add dual password option later to help users make sure the password they typed in is what they want it to be. 
+  Another simple interface that allows user to register their email and password. You must enter your password twice to prevent accidental typos.
 </p>
-<a href="http://akamainook.meteorapp.com/#/signup"><img src="/images/register.png" width="500px" align="middle"></a>
+<a href="http://akamainook.meteorapp.com/#/signup"><img src="/images/registerm3.png" width="500px" align="middle"></a>
 </li>
 
 <li>
@@ -133,22 +128,30 @@
 <p>
   Now that the user is registered and logged in, they are able to view their profile. The profile page will allow users to check what nook they have uploaded, and have control over their email address and password. 
 </p>
-<a href="http://akamainook.meteorapp.com/#/signup"><img src="/images/profile.png" width="500px" align="middle"></a>
+<a href="http://akamainook.meteorapp.com/#/profile"><img src="/images/profilem3.png" width="500px" align="middle"></a>
 </li>
 
 <li>
-<h4 id="12">Add Page</h4>
+<h4 id="12">Add Nooks Page</h4>
 <p>
-  This is a simple page that allows user to add their favorite nook. Our scope is to allow the user to enter the name, a short description, upload an image, select tags, and enter the hours of operation. Of course, some users may be discouraged to enter all of the field, so not all of the fields will be mandatory. For data purposes, currently all fields are mandatory and image will require a link instead of an upload. 
+  This is a simple page that allows user to add their favorite nook. Our scope is to allow the user to enter the name, a short description, link an image, select tags, and enter the hours of operation. Of course, some users may be discouraged to enter all of the field, so not all of the fields will be mandatory. Adding is accessible through clicking the link on the navigation bar titled "Add Nooks"
 </p>
-<a href="http://akamainook.meteorapp.com/#/addnook"><img src="/images/add.png" width="500px" align="middle"></a>
+<a href="http://akamainook.meteorapp.com/#/addnook"><img src="/images/addnookm3.png" width="500px" align="middle"></a>
 </li>
+
+<li>
+  <h4 id="mynooks">My Nooks Page</h4>
+  <p>
+     My Nooks is a listing of your added Nooks. It is availible to all logged in users. The user can view all Nooks they added and have the option to edit or delete the desired Nook. When you attempt to delete, you have an option to confirm deletion so no acciedental deletions may be made.
+  </p>
+<a href="http://akamainook.meteorapp.com/#/mynooks"><img src="/images/adminm3.png" width="500px" align="middle"></a>
+
 <li>
 <h4 id="13">Admin Page</h4>
 <p>
-  The admin will have full control of which location to add to our archives and which location to decline. Because this is a relatively small scoped project, we plan to manually update the maps and location cards as the requests come in. This allows us to take our time and actually fill out the description of the locations if needed, such as taking a photo of the location if the submittion lacks one. 
+  A variation of the My Nooks page. It is accessible only as an admin user. This page allows the admin user to change any details of any Nook. All nooks are accessible from default nooks, user added nooks, and admin added nooks. The same parameters available to edit are the same as when adding.
 </p>
-<a href="http://akamainook.meteorapp.com/#/admin"><img src="/images/admin.png" width="500px" align="middle"></a>
+<a href="http://akamainook.meteorapp.com/#/admin"><img src="/images/adminm3.png" width="500px" align="middle"></a>
 </li>
 </ul>
 <hr>
@@ -215,6 +218,12 @@ After the hard part of back-end programming is done, we decided to polish our we
     </p>
     <a href="http://akamainook.meteorapp.com/#/mynooks"><img src="/images/adminm3.png" width="500px" align="middle"></a>
   </li>
+    <li>
+    <h4>Add Page</h4>
+      <p> This page allows the user to change any details of the Nook. New features include a checkbox system for tags compared to the previous text box. There is also a dropdown menu to select time. The same parameters available to you when adding is availble in edit.
+    </p>
+    <a href="http://akamainook.meteorapp.com/#/mynooks"><img src="/images/addnookm3.png" width="500px" align="middle"></a>
+  </li>
   <li>
     <h4>Edit Page</h4>
       <p> A variation of the Add Nook page. This page allows the user to change any details of the Nook. The same parameters available to you when adding is availble in edit.
@@ -230,7 +239,7 @@ After the hard part of back-end programming is done, we decided to polish our we
     <a href="http://akamainook.meteorapp.com/#/profile"><img src="/images/editprofilem3.png" width="500px" align="middle"></a>
   </li>
   <li>
-    <h4 id="9">Admin Page</h4>
+    <h4>Admin Page</h4>
     <p> A variation of the My Nooks page. This page allows the admin user to change any details of any Nook. All nooks are accessible from default nooks, user added nooks, and admin added nooks. The same parameters available to you when adding is availble in edit. 
     </p>
     <a href="http://akamainook.meteorapp.com/#/admin"><img src="/images/adminm3.png" width="500px" align="middle"></a>
